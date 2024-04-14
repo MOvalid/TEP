@@ -1,0 +1,3 @@
+C:/Users/trine/CLionProjects/lista5_tep/cmake-build-debug/CMakeFiles/lista5_tep.dir
+C:/Users/trine/CLionProjects/lista5_tep/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/trine/CLionProjects/lista5_tep/cmake-build-debug/CMakeFiles/rebuild_cache.dir
